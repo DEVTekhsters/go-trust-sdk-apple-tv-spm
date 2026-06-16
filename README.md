@@ -1,0 +1,1 @@
+# go-trust-sdk-apple-tv-spm
